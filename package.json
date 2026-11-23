@@ -29,6 +29,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "concurrently": "^8.2.2"
+    "concurrently": "^8.2.2",
+    "prettier": "^3.10.1"
   }
 }
