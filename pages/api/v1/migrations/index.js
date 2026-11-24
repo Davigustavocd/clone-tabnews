@@ -1,4 +1,3 @@
-import { up } from "infra/migrations/1794275162967_test-migration";
 import migrationRunner from "node-pg-migrate";
 import { join } from "node:path";
 import database from "infra/database.js";
